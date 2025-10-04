@@ -46,8 +46,8 @@
 ---
 
 ### ✨ Featured Projects  
-- 🔗 [Mental Health Web App](#) – Django-based application for mental wellness support    
-- 🔗 [DSA Tracker](#) – Track Data Structures & Algorithms practice progress  
+- 🔗 [Mental Health Web App](#) – Django-based application for mental wellness support      
+- 🔗 [DSA Tracker](#) – Track Data Structures & Algorithms practice progress    
 
 ---
 
