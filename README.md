@@ -15,7 +15,7 @@
 - 🎓 **B.Tech in Computer Science (SRM University, Delhi-NCR)**     
 - 💻 Passionate about **Software Development, Full-Stack Web, and Problem Solving**  
 - 🔭 Currently working on **Full-Stack Projects & Open Source**  
-- 🌱 Exploring **System Design & Cloud (AWS, Docker)**  
+- 🌱 Exploring **System Design & Cloud (AWS, Docker)**       
 - 👯 Looking to collaborate on **Web Apps, APIs, and Open Source Contributions**  
 - 💬 Ask me about **C++, Python, Java, Django, React, or DSA**  
 - ⚡ Fun fact: *I break code 💥 just to fix it better 😎*  
@@ -32,7 +32,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats         
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayaantyagi&show_icons=true&theme=tokyonight" height="180em"/>
@@ -64,4 +64,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" />
 </p>
-
