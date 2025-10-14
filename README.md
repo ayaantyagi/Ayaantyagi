@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 **B.Tech in Computer Science (SRM University, Delhi-NCR)**     
+- 🎓 **B.Tech in Computer Science (SRM University, Delhi-NCR)**      
 - 💻 Passionate about **Software Development, Full-Stack Web, and Problem Solving**  
 - 🔭 Currently working on **Full-Stack Projects & Open Source**   
 - 🌱 Exploring **System Design & Cloud (AWS, Docker)**       
