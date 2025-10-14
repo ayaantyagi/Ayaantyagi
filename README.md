@@ -14,7 +14,7 @@
 ### 🚀 About Me  
 - 🎓 **B.Tech in Computer Science (SRM University, Delhi-NCR)**     
 - 💻 Passionate about **Software Development, Full-Stack Web, and Problem Solving**  
-- 🔭 Currently working on **Full-Stack Projects & Open Source**  
+- 🔭 Currently working on **Full-Stack Projects & Open Source**   
 - 🌱 Exploring **System Design & Cloud (AWS, Docker)**       
 - 👯 Looking to collaborate on **Web Apps, APIs, and Open Source Contributions**  
 - 💬 Ask me about **C++, Python, Java, Django, React, or DSA**  
