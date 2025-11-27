@@ -53,7 +53,7 @@
 
 ### 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayan-tyagi/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://www.linkedin.com/in/ayan-tyagi/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>  
   <a href="mailto:ayan.tyagi2211@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/></a>
   <a href="https://github.com/ayaantyagi"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
